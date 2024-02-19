@@ -1,6 +1,8 @@
 *
 !*.csv
 !*.pdf
+!pdfdata/
+!pdfdata/*.csv
 !data/
 !data/*.csv
 !flowchart.png
