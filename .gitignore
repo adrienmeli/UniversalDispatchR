@@ -1,6 +1,7 @@
 *
 !*.csv
 !*.pdf
+!data/
 !data/*.csv
 !flowchart.png
 github_*pdf
