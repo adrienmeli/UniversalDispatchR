@@ -1,6 +1,5 @@
 *
-!*.csv
-!*.pdf
+!OUTPUT*.pdf
 !pdfdata/
 !pdfdata/*.csv
 !data/
