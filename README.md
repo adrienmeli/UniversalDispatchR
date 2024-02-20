@@ -8,7 +8,7 @@ This repository is about showcasing a method to create material for teaching Eng
 
 * [OUTPUT3-worksheet-corrected.pdf](OUTPUT3-worksheet-corrected.pdf) is the corrected version of OUTPUT2-worksheet.pdf.
 
-* [OUTPUT4-MOODLE-EXERCISES.xml](OUTPUT4-MOODLE-EXERCISES.xml) gives an example of interactive online exercises that can be uploaded on [Moodle](https://moodle.com/). You can try those exercises on my site [here](https://englishforthefrench.com/moodle).
+* [OUTPUT4-moodle-exercises.xml](OUTPUT4-moodle-exercises.xml) gives an example of interactive online exercises that can be uploaded on [Moodle](https://moodle.com/). You can try those exercises on my site [here](https://englishforthefrench.com/moodle).
 
 * Folders `pdfdata/` and `moodledata/` contain the files used to generate these output documents.
 
@@ -40,11 +40,11 @@ Corrections are provided in the slides, and they can also be easily generated in
 
 [OUTPUT1-lesson.pdf,](OUTPUT1-lesson.pdf) [OUTPUT2-worksheet.pdf](OUTPUT2-worksheet.pdf) and [OUTPUT3-worksheet-corrected.pdf](OUTPUT3-worksheet-corrected.pdf) were created from the `.csv` files in the `pdfdata/` folder.
 
-[OUTPUT4-MOODLE-EXERCISES.xml](OUTPUT4-MOODLE-EXERCISES.xml) was created using the `.csv` files in the `data/` folder.
+[OUTPUT4-moodle-exercises.xml](OUTPUT4-moodle-exercises.xml) was created using the `.csv` files in the `moodledata/` folder.
 
 These files showcase the different exercises that can be generated with `UniversalDispatchR`. 
 
-The interactive Moodle exercises from [OUTPUT4-MOODLE-EXERCISES.xml](OUTPUT4-MOODLE-EXERCISES.xml) can be uploaded to a Moodle question bank, or tried on my website and its Moodle:
+The interactive Moodle exercises from [OUTPUT4-moodle-exercises.xml](OUTPUT4-moodle-exercises.xml) can be uploaded to a Moodle question bank, or tried on my website and its Moodle:
 
 [englishforthefrench.com](https://englishforthefrench.com/moodle/)
 
