@@ -36,15 +36,8 @@ Semi-colons `;` serve as column separators.
 
 Corrections are provided in the slides, and they can also be easily generated in a corrected version of the worksheet.
 
-# Files found in this repository
+#
 
-[OUTPUT1-lesson.pdf,](OUTPUT1-lesson.pdf) [OUTPUT2-worksheet.pdf](OUTPUT2-worksheet.pdf) and [OUTPUT3-worksheet-corrected.pdf](OUTPUT3-worksheet-corrected.pdf) were created from the `.csv` files in the `pdfdata/` folder.
-
-[OUTPUT4-moodle-exercises.xml](OUTPUT4-moodle-exercises.xml) was created using the `.csv` files in the `moodledata/` folder.
-
-These files showcase the different exercises that can be generated with `UniversalDispatchR`. 
-
-# 
 The interactive Moodle exercises from [OUTPUT4-moodle-exercises.xml](OUTPUT4-moodle-exercises.xml) can be uploaded to a Moodle question bank, or tried on my website and its Moodle:
 
 [englishforthefrench.com](https://englishforthefrench.com/moodle/)
