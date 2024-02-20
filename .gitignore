@@ -1,5 +1,7 @@
 *
 !OUTPUT*.pdf
+!images/
+!images/*
 !pdfdata/
 !pdfdata/*.csv
 !data/
