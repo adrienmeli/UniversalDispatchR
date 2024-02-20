@@ -16,7 +16,7 @@ This repository is about showcasing a method to create material for teaching Eng
 
 # Outline
 
-This repository stores the input and output files of my R-based set of functions to generate pedagogical material for teaching English (i.e. slides, worksheets and Moodle exercises).
+This repository stores the input and output files of my [R](https://www.r-project.org/)-based set of functions to generate pedagogical material for teaching English (i.e. slides, worksheets and Moodle exercises).
 
 This R-based set of functions, `UniversalDispatchR`, is **not** in the repository.
 
