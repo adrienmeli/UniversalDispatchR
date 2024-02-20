@@ -6,7 +6,6 @@
 !pdfdata/*.csv
 !moodledata/
 !moodledata/*.csv
-!flowchart.png
 github_*pdf
 flowchart.pdf
 !*.xml
