@@ -2,7 +2,7 @@
 
 This repository is about showcasing a method to create material for teaching English.
 
-* OUTPUT1-lesson.pdf gives an example of slides that can be shown in class.
+* [OUTPUT1-lesson.pdf](OUTPUT1-lesson.pdf)  gives an example of slides that can be shown in class.
 
 * OUTPUT2-worksheet.pdf gives an example of various exercises that can be printed out on worksheets for students.
 
@@ -33,7 +33,6 @@ A `.csv` file is fed into `UniversalDispatchR`.
 Depending on its name and internal structure (*i.e.* its number of columns), a certain type of exercise will be created.
 
 Corrections are provided in the slides, and they can also be easily generated in a corrected version of the worksheet.
-
 
 # Files found in this repository
 
