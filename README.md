@@ -8,9 +8,11 @@ This repository is about showcasing a method to create material for teaching Eng
 
 * OUTPUT3-worksheet-corrected.pdf is the corrected version of OUTPUT2-worksheet.pdf.
 
-* OUTPUT4-MOODLE-EXERCISES.xml gives an example of interactive online exercises that can be uploaded on Moodle.
+* OUTPUT4-MOODLE-EXERCISES.xml gives an example of interactive online exercises that can be uploaded on [Moodle](https://moodle.com/).
 
 * Folders `data/` and `pdfdata/` contain the files used to generate the output documents listed above.
+
+![](flowchart.png)
 
 # Outline
 
@@ -30,9 +32,8 @@ A `.csv` file is fed into `UniversalDispatchR`.
 
 Depending on its name and internal structure (*i.e.* its number of columns), a certain type of exercise will be created.
 
-Corrections can also be easily generated.
+Corrections are provided in the slides, and they can also be easily generated in a corrected version of the worksheet.
 
-![](flowchart.png)
 
 # Files found in this repository
 
