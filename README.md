@@ -8,7 +8,7 @@ This repository is about showcasing a method to create material for teaching Eng
 
 * [OUTPUT3-worksheet-corrected.pdf](OUTPUT3-worksheet-corrected.pdf) is the corrected version of OUTPUT2-worksheet.pdf.
 
-* [OUTPUT4-MOODLE-EXERCISES.xml](OUTPUT4-MOODLE-EXERCISES.xml) gives an example of interactive online exercises that can be uploaded on [Moodle](https://moodle.com/).
+* [OUTPUT4-MOODLE-EXERCISES.xml](OUTPUT4-MOODLE-EXERCISES.xml) gives an example of interactive online exercises that can be uploaded on [Moodle](https://moodle.com/). You can try those exercises on my site [here](https://englishforthefrench.com/moodle).
 
 * Folders `pdfdata/` and `moodledata/` contain the files used to generate these output documents.
 
