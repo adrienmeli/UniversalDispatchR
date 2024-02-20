@@ -36,7 +36,7 @@ Semi-colons `;` serve as column separators.
 
 Corrections are provided in the slides, and they can also be easily generated in a corrected version of the worksheet.
 
-#
+# Moodle
 
 The interactive Moodle exercises from [OUTPUT4-moodle-exercises.xml](OUTPUT4-moodle-exercises.xml) can be uploaded to a Moodle question bank, or tried on my website and its Moodle:
 
