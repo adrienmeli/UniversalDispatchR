@@ -6,13 +6,13 @@ This R-based set of functions, `UniversalDispatchR`, is **not** in the repositor
 
 ![](flowchart.png)
 
-"worksheet.pdf", "worksheet-corrected.pdf" and "lesson.pdf" were created from the `.csv` files in the `pdfdata/` folder.
+"OUTPUT1-lesson.pdf", "OUTPUT2-worksheet.pdf" and "OUTPUT3-worksheet-corrected.pdf" were created from the `.csv` files in the `pdfdata/` folder.
 
-"MOODLE-EXERCISES.xml" was created using the `.csv` files in the `data/` folder.
+"OUTPUT4-MOODLE-EXERCISES.xml" was created using the `.csv` files in the `data/` folder.
 
 These files showcase the different exercises that can be generated with `UniversalDispatchR`. 
 
-The interactive Moodle exercises from "MOODLE-EXERCISES.xml" can be uploaded to a Moodle question bank, or tried on my website and its Moodle:
+The interactive Moodle exercises from "OUTPUT4-MOODLE-EXERCISES.xml" can be uploaded to a Moodle question bank, or tried on my website and its Moodle:
 
 [englishforthefrench.com](https://englishforthefrench.com/moodle/)
 
