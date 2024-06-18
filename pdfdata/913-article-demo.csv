@@ -5,21 +5,12 @@ my_newspaper: "The Economist"
 my_link: "https://www.economist.com/the-economist-explains/2022/10/24/how-much-do-americas-voting-access-reforms-affect-turnout"
 my_date: " Oct 24th 2022
 "
-my_author: ""
 my_image: AmericasVotingAccessReform.jpg
 #BEGINFILE
-
-
 THE PANDEMIC brought big changes to how Americans vote. States, which administer elections, made it easier to cast ballots by mail, introduced ballot drop-boxes and extended voting deadlines. Turnout in the 2020 election was the highest ever. Then some states rolled back those innovations. Last year an advocacy group tallied 34 laws passed in 19 states that made it harder for Americans to vote—more than in any year since it started counting in 2011. Most were passed by Republican state lawmakers who argue that such restrictions, including tough voter-ID requirements, target rare instances of voter fraud and build confidence in elections. Democrats say the laws are designed to reduce turnout, particularly among minority and younger voters, and thus their party’s vote share. Are they right?
-
 Reforms to voting access fall into distinct buckets, with different implications for turnout. Convenience measures, such as postal and early voting, are designed to make it easier to vote at places and times other than at one’s assigned precinct on election day. These laws may allow registered voters to vote by mail without needing special justification such as illness (as in 27 states), or to have a postal ballot mailed to them automatically (which eight states do). Yet their effect is modest. Automatically mailing ballots to everyone raised turnout by two percentage points in California, Utah and Washington state, according to a recent study. Neither party gained an advantage. Offering no-excuse postal voting in Texas during the 2020 election appeared to have little effect on turnout or partisan vote share: more people simply switched from in-person to postal voting.
-
 Some convenience reforms have a counterintuitive impact. A study found that early voting can actually decrease turnout when implemented without other measures, such as automatic voter registration. When voting becomes a private, homebound activity, people no longer have the reminder or sense of civic participation that comes with a common election day.
-
 Voter-ID requirements, which determine what people need to prove their identity in order to cast a ballot, incite the most criticism from Democrats. Demands can be simple—a voter’s name and address, for instance. Or they can be more onerous: Texas, for example, accepts a concealed-handgun licence but not a student ID from a state university.
-
 Even if ID restrictions are a cynical attempt by Republicans to craft rules that give them an advantage, Democratic anxieties over widespread voter suppression appear unfounded. Such laws have a negligible impact on turnout or the parties’ respective vote share, according to a countrywide study published last year . Almost all registered voters who habitually vote have the requisite ID, so the affected population is in fact quite small (one study estimated that 0.5% of registered voters in Texas lacked the ID to comply with the state’s strict law).
-
 The fixation on voter-ID laws ignores the reform that would most improve turnout: making it easier to register to vote. Such measures include same-day registration, whereby people can register and vote on election day, and automatic registration in the course of other government business, such as getting a driving licence. A recent study found that automatic re-registration of people who moved within a county in California increased turnout at the 2018 midterm elections by nearly six percentage points. That should cheer anyone keen to expand the franchise.
-
 #ENDFILE
