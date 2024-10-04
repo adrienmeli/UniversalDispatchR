@@ -45,6 +45,6 @@ The interactive Moodle exercises from [OUTPUT4-moodle-exercises.xml](OUTPUT4-moo
 **Login details:**
 
 * id: tester
-* pw: Super2024!!
+* pw: Showcase2025!!!
 
 Please use Firefox or Chrome, **not** Safari.
